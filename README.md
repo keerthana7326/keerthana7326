@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi 👋 I'm Keerthana Narayanan
 
-<!--
-**keerthana7326/keerthana7326** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Python Full Stack Developer (Fresher)
 
-Here are some ideas to get you started:
+🎓 BCA Graduate (2025)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+- Angular
+- TypeScript
+- REST APIs
+
+🚀 Projects
+- 💰 Expense Tracker (Django)
+- 🎭 Deep Fake & Image Forgery Detection
+
+🛠️ Skills
+
+- Python
+- Django
+- Flask
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
+- Angular (Learning)
+- SQLite
+- Git & GitHub
+
+📈 Currently Working On
+- Improving my Full Stack Development skills
+- Building more Django & Angular projects
+
+📫 Connect with me
+
+- GitHub: https://github.com/keerthana7326
+- LinkedIn: *(Add your LinkedIn profile link here)*
+
+⭐ Thanks for visiting my profile!
