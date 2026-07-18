@@ -37,6 +37,6 @@
 📫 Connect with me
 
 - GitHub: https://github.com/keerthana7326
-- LinkedIn: *(Add your LinkedIn profile link here)*
+
 
 ⭐ Thanks for visiting my profile!
