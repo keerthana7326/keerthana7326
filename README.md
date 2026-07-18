@@ -10,7 +10,11 @@
 - REST APIs
 
 🚀 Projects
+
 - 💰 Expense Tracker (Django)
+  - 🔗 Live Demo: https://expense-tracker-django-nud7.onrender.com
+  - 📂 Repository: https://github.com/keerthana7326/expense-tracker-django
+
 - 🎭 Deep Fake & Image Forgery Detection
 
 🛠️ Skills
